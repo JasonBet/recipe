@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightcoral;
+}
+
+h1 {
+    color: rebeccapurple;
+}
+
+h2 {
+    color: darkgreen;
+}
+
+ol {
+    line-height: 200%;
+    font-size: 18px;
+}
+
+ul {
+    color: midnightblue;
+    line-height: 150%;
+}
+
+p {
+    background-color: yellow;
+}
